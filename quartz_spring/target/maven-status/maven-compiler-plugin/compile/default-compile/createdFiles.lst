@@ -1,0 +1,3 @@
+cn\itcast\quartz\service\JobFactory.class
+cn\itcast\quartz\service\HelloService.class
+cn\itcast\quartz\job\HelloJob.class
